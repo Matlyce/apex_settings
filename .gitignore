@@ -2,3 +2,4 @@ unused
 *.spec
 *.temp
 *.tmp
+compile_content
