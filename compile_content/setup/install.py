@@ -3,7 +3,7 @@ import zipfile
 import getpass
 import os
 import ctypes
-import os, winshell
+import os
 from win32com.client import Dispatch
 from sys import exit
 import sys
