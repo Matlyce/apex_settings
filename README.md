@@ -1,4 +1,4 @@
-# APEX SETTINGS - REEVIEW
+# APEX SETTINGS - REVIEW
 
 "Apex Settings" allows you to backup all your Apex Legends game settings and export them as a single file (e.g. settings.apexconfig), then share it or keep it as a "backup" for you to reload this configuration later.
 This is very useful for streamers who want to share their settings or anyone who wants to save their Apex Legends settings.
@@ -11,9 +11,13 @@ The application is very easy to use, two buttons, IMPORT / EXPORT, please refer 
 
 You just need to download the installer (.exe file) and run it, this will install the application on your system.
 Once the installation is complete, you can find a shortcut on your desktop (or just search for the app in the apps list) and enjoy!
+Otherwise, you can just use the "Portable Version" of the project which does not require any installation process. (faster)
 
 The application is very simple to use, two buttons, IMPORT and EXPORT. Please specify the path to your ApexLegends installation folder in the application before saving/loading.
 
 # CREDITS
 
 Font Used: https://www.behance.net/gallery/100254489/APEX-Variable-Font 
+
+--------------------------------------------------------------------------------------------------
+Made with ❤️ by Matlyce
